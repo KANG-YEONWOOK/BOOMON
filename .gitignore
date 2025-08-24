@@ -36,3 +36,9 @@ yarn-error.log*
 # Misc
 .DS_Store
 *.pem
+
+# apps/web/.gitignore
+# apps/api/.gitignore
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
