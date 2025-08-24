@@ -21,6 +21,13 @@ coverage
 # Vercel
 .vercel
 
+# vscode
+.vscode
+
+# claude
+CLAUDE.md
+CLAUDE.local.md
+
 # Build Outputs
 .next/
 out/
